@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="org.lompo.softwares.DataModelTest" duration-ms="120" started-at="2015-06-06T15:58:18Z" finished-at="2015-06-06T15:58:19Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="120" started-at="2015-06-06T15:58:18Z" finished-at="2015-06-06T15:58:19Z">
+      <class name="org.lompo.softwares.DataModelTest">
+        <test-method status="PASS" signature="areHelloWorldTwoWords()[pri:0, instance:org.lompo.softwares.DataModelTest@1cd072a9]" name="areHelloWorldTwoWords" duration-ms="91" started-at="2015-06-06T16:58:18Z" finished-at="2015-06-06T16:58:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- areHelloWorldTwoWords -->
+      </class> <!-- org.lompo.softwares.DataModelTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- org.lompo.softwares.DataModelTest -->
+</testng-results>

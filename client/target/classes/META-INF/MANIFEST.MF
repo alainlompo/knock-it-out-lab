@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1433606299589
+Build-Jdk: 1.8.0_25
+Built-By: LOMPO
+Bundle-ManifestVersion: 2
+Bundle-Name: knock-it-out-lab General Client Code
+Bundle-SymbolicName: org.lompo.softwares
+Bundle-Version: 1.0.0.SNAPSHOT
+Class-Path: lib/net.java.html-1.1.jar lib/net.java.html.json-1.1.jar lib
+ /net.java.html.boot-1.1.jar lib/net.java.html.sound-1.1.jar lib/ko4j-1.
+ 1.jar lib/knock-it-out-lab-js-1.0-SNAPSHOT.jar lib/net.java.html.boot.f
+ x-1.1.jar
+Created-By: Apache Maven Bundle Plugin
+Export-Package: org.lompo.softwares;version="1.0.0.SNAPSHOT"
+Import-Package: net.java.html;version="[1.1,2)",net.java.html.boot;versi
+ on="[1.1,2)",org.lompo.softwares.js;version="[1.0,2)",org.netbeans.html
+ .json.spi;version="[1.1,2)"
+Main-Class: org.lompo.softwares.Main
+Tool: Bnd-2.1.0.20130426-122213
